@@ -1,0 +1,33 @@
+body {
+	display: flex;
+	background-color: RGB(43, 42, 41);
+}
+.product {
+	border: 1px solid gray;
+	height: 300px;
+	width: 250px;
+}
+p {
+	margin: 10px 0 0 10px;
+	font-size: 200%;
+	color: white;
+}
+img{
+	margin: 10px 0 10px 10px;
+	height: 230px;
+	width: 230px;
+}
+.block{
+	display: flex;
+	align-content: center;
+	flex-direction: column;
+}
+.buttons{
+	dislay: flex;
+	
+}
+.addToCart{
+	margin: 5px 0 0 0;
+	height: 30px;
+	width: 90px;
+}
